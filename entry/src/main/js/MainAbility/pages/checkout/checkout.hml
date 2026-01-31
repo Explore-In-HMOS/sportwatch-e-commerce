@@ -1,0 +1,76 @@
+<div class="container">
+    <!-- Header -->
+    <div class="header">
+        <text class="back-btn" onclick="goBack">&lt;</text>
+        <text class="title">Checkout</text>
+        <text class="placeholder"></text>
+    </div>
+
+    <!-- Order Summary -->
+    <div class="section">
+        <text class="section-title">Order Summary</text>
+        <list class="items-list">
+            <list-item class="summary-item" for="{{ orderItems }}">
+                <div class="item-row">
+                    <text class="item-name">{{ $item.name }}</text>
+                    <text class="item-qty">x{{ $item.quantity }}</text>
+                    <text class="item-total">{{ $item.totalText }}</text>
+                </div>
+            </list-item>
+        </list>
+    </div>
+
+    <!-- Payment Method -->
+    <div class="section">
+        <text class="section-title">Payment Method</text>
+        <div class="payment-options">
+            <div class="payment-option-selected" onclick="selectPayment('card')" if="{{ selectedPayment === 'card' }}">
+                <text class="payment-icon">#</text>
+                <text class="payment-text">Card</text>
+            </div>
+            <div class="payment-option" onclick="selectPayment('card')" if="{{ selectedPayment !== 'card' }}">
+                <text class="payment-icon">#</text>
+                <text class="payment-text">Card</text>
+            </div>
+            <div class="payment-option-selected" onclick="selectPayment('wallet')" if="{{ selectedPayment === 'wallet' }}">
+                <text class="payment-icon">$</text>
+                <text class="payment-text">Wallet</text>
+            </div>
+            <div class="payment-option" onclick="selectPayment('wallet')" if="{{ selectedPayment !== 'wallet' }}">
+                <text class="payment-icon">$</text>
+                <text class="payment-text">Wallet</text>
+            </div>
+            <div class="payment-option-selected" onclick="selectPayment('cod')" if="{{ selectedPayment === 'cod' }}">
+                <text class="payment-icon">*</text>
+                <text class="payment-text">COD</text>
+            </div>
+            <div class="payment-option" onclick="selectPayment('cod')" if="{{ selectedPayment !== 'cod' }}">
+                <text class="payment-icon">*</text>
+                <text class="payment-text">COD</text>
+            </div>
+        </div>
+    </div>
+
+    <!-- Order Totals -->
+    <div class="totals-section">
+        <div class="total-row">
+            <text class="total-label">Subtotal:</text>
+            <text class="total-value">{{ subtotalText }}</text>
+        </div>
+        <div class="total-row">
+            <text class="total-label">Shipping:</text>
+            <text class="total-value">{{ shippingText }}</text>
+        </div>
+        <div class="total-row-grand">
+            <text class="total-label-grand">Total:</text>
+            <text class="total-value-grand">{{ totalText }}</text>
+        </div>
+    </div>
+
+    <!-- Place Order Button -->
+    <div class="action-section">
+        <text class="status-text" if="{{ isProcessing }}">{{ statusText }}</text>
+        <text class="place-order-btn-processing" onclick="placeOrder" if="{{ isProcessing }}">Please wait</text>
+        <text class="place-order-btn" onclick="placeOrder" if="{{ !isProcessing }}">Place Order</text>
+    </div>
+</div>

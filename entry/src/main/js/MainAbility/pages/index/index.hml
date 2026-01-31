@@ -1,0 +1,15 @@
+<div class="container">
+    <div class="splash-content">
+        <div class="logo-ring">
+            <text class="logo-icon">E</text>
+        </div>
+        <text class="app-title">E-Shop</text>
+        <text class="app-subtitle">Your Wearable Store</text>
+    </div>
+    <div class="loader">
+        <div class="loader-bar">
+            <div class="loader-fill"></div>
+        </div>
+        <text class="loader-text">Loading...</text>
+    </div>
+</div>

@@ -1,0 +1,49 @@
+<div class="container">
+    <list class="content-list">
+        <list-item class="header-section">
+            <div class="header">
+                <text class="header-title">Cart</text>
+                <text class="header-count">{{ cartCount }} items</text>
+            </div>
+        </list-item>
+
+        <list-item class="empty-section" if="{{ cartItems.length === 0 }}">
+            <div class="empty-state">
+                <text class="empty-text">Cart is empty</text>
+            </div>
+        </list-item>
+
+        <list-item class="product-card" for="{{ cartItems }}">
+            <div class="card-inner">
+                <div class="accent accent-purple"></div>
+                <image class="product-img" src="{{ $item.image }}"></image>
+                <text class="product-name">{{ $item.name }}</text>
+                <div class="price-qty">
+                    <text class="product-price">${{ $item.totalPrice }}</text>
+                    <text class="product-qty">x{{ $item.quantity }}</text>
+                </div>
+            </div>
+        </list-item>
+
+        <list-item class="summary-section" if="{{ cartItems.length > 0 }}">
+            <div class="summary-card">
+                <div class="total-row">
+                    <text class="total-label">Total:</text>
+                    <text class="total-value">${{ totalText }}</text>
+                </div>
+                <text class="checkout-btn" onclick="goToCheckout">Checkout</text>
+            </div>
+        </list-item>
+
+        <list-item class="back-section" onclick="goBack">
+            <div class="back-card">
+                <div class="back-icon"></div>
+                <text class="back-text">Back</text>
+            </div>
+        </list-item>
+
+        <list-item class="spacer-item">
+            <div class="spacer"></div>
+        </list-item>
+    </list>
+</div>

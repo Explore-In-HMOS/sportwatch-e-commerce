@@ -1,0 +1,32 @@
+<div class="container">
+    <text class="title">Settings</text>
+
+    <list class="settings-list">
+        <list-item class="setting-item" onclick="toggleOrderAlerts">
+            <text class="setting-name">Order Alerts</text>
+            <text class="setting-value">{{orderAlerts ? 'ON' : 'OFF'}}</text>
+        </list-item>
+
+        <list-item class="setting-item" onclick="toggleDealAlerts">
+            <text class="setting-name">Deal Alerts</text>
+            <text class="setting-value">{{dealAlerts ? 'ON' : 'OFF'}}</text>
+        </list-item>
+
+        <list-item class="setting-item" onclick="togglePush">
+            <text class="setting-name">Push Notifications</text>
+            <text class="setting-value">{{pushNotifications ? 'ON' : 'OFF'}}</text>
+        </list-item>
+
+        <list-item class="setting-item" onclick="toggleDark">
+            <text class="setting-name">Dark Mode</text>
+            <text class="setting-value">{{darkMode ? 'ON' : 'OFF'}}</text>
+        </list-item>
+
+        <list-item class="setting-item">
+            <text class="setting-name">Version</text>
+            <text class="setting-value">1.0.0</text>
+        </list-item>
+    </list>
+
+    <text class="back-btn" onclick="goBack">Back</text>
+</div>

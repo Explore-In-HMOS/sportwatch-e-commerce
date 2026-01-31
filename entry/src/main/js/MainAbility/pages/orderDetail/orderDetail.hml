@@ -1,0 +1,34 @@
+<div class="container">
+    <text class="title">Order Details</text>
+
+    <div class="order-header">
+        <text class="order-number">{{order.orderNumber}}</text>
+        <text class="order-status" style="background-color: {{order.statusColor}};">{{order.status}}</text>
+    </div>
+
+    <div class="info-row">
+        <text class="info-label">Date:</text>
+        <text class="info-value">{{order.orderDate}}</text>
+    </div>
+
+    <div class="info-row">
+        <text class="info-label">Delivery:</text>
+        <text class="info-value">{{order.estimatedDelivery}}</text>
+    </div>
+
+    <text class="section-title">Items</text>
+    <list class="items-list">
+        <list-item class="item-row" for="{{order.items}}">
+            <image class="item-img" src="{{$item.image}}"></image>
+            <text class="item-name">{{$item.name}}</text>
+            <text class="item-price">${{$item.total}}</text>
+        </list-item>
+    </list>
+
+    <div class="total-row">
+        <text class="total-label">Total:</text>
+        <text class="total-value">${{order.total}}</text>
+    </div>
+
+    <text class="back-btn" onclick="goBack">Back</text>
+</div>

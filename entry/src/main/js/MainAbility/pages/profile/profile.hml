@@ -1,0 +1,50 @@
+<div class="container">
+    <list class="scroll-list">
+        <list-item class="title-section">
+            <text class="title">Profile</text>
+        </list-item>
+
+        <list-item class="profile-section">
+            <div class="profile-card">
+                <div class="avatar">
+                    <text class="avatar-text">{{avatarLetter}}</text>
+                </div>
+                <text class="user-name">{{userName}}</text>
+                <text class="user-email">{{userEmail}}</text>
+            </div>
+        </list-item>
+
+        <list-item class="device-section">
+            <div class="device-card">
+                <text class="device-label">Connected Device</text>
+                <div class="device-row">
+                    <div class="status-dot"></div>
+                    <text class="device-name">{{deviceName}}</text>
+                </div>
+                <text class="battery-text">Battery: {{batteryLevel}}%</text>
+            </div>
+        </list-item>
+
+        <list-item class="menu-section" onclick="openOrders">
+            <div class="menu-item">
+                <text class="menu-text">My Orders</text>
+            </div>
+        </list-item>
+
+        <list-item class="menu-section" onclick="openWishlist">
+            <div class="menu-item">
+                <text class="menu-text">Wishlist</text>
+            </div>
+        </list-item>
+
+        <list-item class="menu-section" onclick="openSettings">
+            <div class="menu-item">
+                <text class="menu-text">Settings</text>
+            </div>
+        </list-item>
+
+        <list-item class="back-section" onclick="goBack">
+            <text class="back-btn">Back</text>
+        </list-item>
+    </list>
+</div>

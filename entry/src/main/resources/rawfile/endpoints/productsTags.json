@@ -1,0 +1,1514 @@
+[
+  {
+    "tagId": "Kids",
+    "productId": 52
+  },
+  {
+    "tagId": "Industrial",
+    "productId": 52
+  },
+  {
+    "tagId": "Toy",
+    "productId": 52
+  },
+  {
+    "tagId": "Electronics",
+    "productId": 53
+  },
+  {
+    "tagId": "Technology",
+    "productId": 53
+  },
+  {
+    "tagId": "Entertainment",
+    "productId": 53
+  },
+  {
+    "tagId": "Automotive",
+    "productId": 54
+  },
+  {
+    "tagId": "Lifestyle",
+    "productId": 54
+  },
+  {
+    "tagId": "Smart Solutionss",
+    "productId": 54
+  },
+  {
+    "tagId": "Technology",
+    "productId": 55
+  },
+  {
+    "tagId": "Electronics",
+    "productId": 55
+  },
+  {
+    "tagId": "Portable",
+    "productId": 55
+  },
+  {
+    "tagId": "Office",
+    "productId": 56
+  },
+  {
+    "tagId": "Lifestyle",
+    "productId": 56
+  },
+  {
+    "tagId": "Industrial",
+    "productId": 56
+  },
+  {
+    "tagId": "Home",
+    "productId": 57
+  },
+  {
+    "tagId": "Lifestyle",
+    "productId": 57
+  },
+  {
+    "tagId": "Portable",
+    "productId": 57
+  },
+  {
+    "tagId": "Technology",
+    "productId": 58
+  },
+  {
+    "tagId": "Appliances",
+    "productId": 58
+  },
+  {
+    "tagId": "Electronics",
+    "productId": 58
+  },
+  {
+    "tagId": "Industrial",
+    "productId": 59
+  },
+  {
+    "tagId": "Entertainment",
+    "productId": 59
+  },
+  {
+    "tagId": "Portable",
+    "productId": 59
+  },
+  {
+    "tagId": "Home",
+    "productId": 60
+  },
+  {
+    "tagId": "Smart Solutionss",
+    "productId": 60
+  },
+  {
+    "tagId": "Appliances",
+    "productId": 60
+  },
+  {
+    "tagId": "Office",
+    "productId": 61
+  },
+  {
+    "tagId": "Portable",
+    "productId": 61
+  },
+  {
+    "tagId": "Smart Solutionss",
+    "productId": 61
+  },
+  {
+    "tagId": "Entertainment",
+    "productId": 62
+  },
+  {
+    "tagId": "Industrial",
+    "productId": 62
+  },
+  {
+    "tagId": "Technology",
+    "productId": 62
+  },
+  {
+    "tagId": "Entertainment",
+    "productId": 63
+  },
+  {
+    "tagId": "Kids",
+    "productId": 63
+  },
+  {
+    "tagId": "Technology",
+    "productId": 63
+  },
+  {
+    "tagId": "Fashion",
+    "productId": 64
+  },
+  {
+    "tagId": "Kids",
+    "productId": 64
+  },
+  {
+    "tagId": "Portable",
+    "productId": 64
+  },
+  {
+    "tagId": "Appliances",
+    "productId": 65
+  },
+  {
+    "tagId": "Home",
+    "productId": 65
+  },
+  {
+    "tagId": "Portable",
+    "productId": 65
+  },
+  {
+    "tagId": "Home",
+    "productId": 66
+  },
+  {
+    "tagId": "Office",
+    "productId": 66
+  },
+  {
+    "tagId": "Smart Solutionss",
+    "productId": 66
+  },
+  {
+    "tagId": "Lifestyle",
+    "productId": 67
+  },
+  {
+    "tagId": "Smart Solutionss",
+    "productId": 67
+  },
+  {
+    "tagId": "Industrial",
+    "productId": 67
+  },
+  {
+    "tagId": "Portable",
+    "productId": 68
+  },
+  {
+    "tagId": "Electronics",
+    "productId": 68
+  },
+  {
+    "tagId": "Industrial",
+    "productId": 68
+  },
+  {
+    "tagId": "Smart Solutionss",
+    "productId": 69
+  },
+  {
+    "tagId": "Lifestyle",
+    "productId": 69
+  },
+  {
+    "tagId": "Fashion",
+    "productId": 69
+  },
+  {
+    "tagId": "Home",
+    "productId": 70
+  },
+  {
+    "tagId": "Lifestyle",
+    "productId": 70
+  },
+  {
+    "tagId": "Fashion",
+    "productId": 70
+  },
+  {
+    "tagId": "Appliances",
+    "productId": 71
+  },
+  {
+    "tagId": "Home",
+    "productId": 71
+  },
+  {
+    "tagId": "Electronics",
+    "productId": 71
+  },
+  {
+    "tagId": "Industrial",
+    "productId": 72
+  },
+  {
+    "tagId": "Home",
+    "productId": 72
+  },
+  {
+    "tagId": "Smart Solutionss",
+    "productId": 72
+  },
+  {
+    "tagId": "Health",
+    "productId": 73
+  },
+  {
+    "tagId": "Lifestyle",
+    "productId": 73
+  },
+  {
+    "tagId": "Smart Solutionss",
+    "productId": 73
+  },
+  {
+    "tagId": "Home",
+    "productId": 74
+  },
+  {
+    "tagId": "Lifestyle",
+    "productId": 74
+  },
+  {
+    "tagId": "Health",
+    "productId": 74
+  },
+  {
+    "tagId": "Home",
+    "productId": 75
+  },
+  {
+    "tagId": "Innovation",
+    "productId": 75
+  },
+  {
+    "tagId": "Lifestyle",
+    "productId": 75
+  },
+  {
+    "tagId": "Health",
+    "productId": 76
+  },
+  {
+    "tagId": "Innovation",
+    "productId": 76
+  },
+  {
+    "tagId": "Lifestyle",
+    "productId": 76
+  },
+  {
+    "tagId": "Home",
+    "productId": 77
+  },
+  {
+    "tagId": "Office",
+    "productId": 77
+  },
+  {
+    "tagId": "Lifestyle",
+    "productId": 77
+  },
+  {
+    "tagId": "Kitchen",
+    "productId": 78
+  },
+  {
+    "tagId": "Smart Solutionss",
+    "productId": 78
+  },
+  {
+    "tagId": "Innovation",
+    "productId": 78
+  },
+  {
+    "tagId": "Entertainment",
+    "productId": 79
+  },
+  {
+    "tagId": "Kitchen",
+    "productId": 79
+  },
+  {
+    "tagId": "Innovation",
+    "productId": 79
+  },
+  {
+    "tagId": "Kitchen",
+    "productId": 80
+  },
+  {
+    "tagId": "Industrial",
+    "productId": 80
+  },
+  {
+    "tagId": "Office",
+    "productId": 80
+  },
+  {
+    "tagId": "Home",
+    "productId": 81
+  },
+  {
+    "tagId": "Portable",
+    "productId": 81
+  },
+  {
+    "tagId": "Industrial",
+    "productId": 81
+  },
+  {
+    "tagId": "Office",
+    "productId": 82
+  },
+  {
+    "tagId": "Fashion",
+    "productId": 82
+  },
+  {
+    "tagId": "Smart Solutionss",
+    "productId": 82
+  },
+  {
+    "tagId": "Home",
+    "productId": 83
+  },
+  {
+    "tagId": "Smart Solutionss",
+    "productId": 83
+  },
+  {
+    "tagId": "Innovation",
+    "productId": 83
+  },
+  {
+    "tagId": "Health",
+    "productId": 84
+  },
+  {
+    "tagId": "Lifestyle",
+    "productId": 84
+  },
+  {
+    "tagId": "Innovation",
+    "productId": 84
+  },
+  {
+    "tagId": "Home",
+    "productId": 84
+  },
+  {
+    "tagId": "Portable",
+    "productId": 84
+  },
+  {
+    "tagId": "Home",
+    "productId": 85
+  },
+  {
+    "tagId": "Kitchen",
+    "productId": 85
+  },
+  {
+    "tagId": "Smart Solutionss",
+    "productId": 85
+  },
+  {
+    "tagId": "Innovation",
+    "productId": 85
+  },
+  {
+    "tagId": "Industrial",
+    "productId": 85
+  },
+  {
+    "tagId": "Health",
+    "productId": 86
+  },
+  {
+    "tagId": "Kitchen",
+    "productId": 86
+  },
+  {
+    "tagId": "Innovation",
+    "productId": 86
+  },
+  {
+    "tagId": "Home",
+    "productId": 86
+  },
+  {
+    "tagId": "Portable",
+    "productId": 86
+  },
+  {
+    "tagId": "Smart Solutionss",
+    "productId": 87
+  },
+  {
+    "tagId": "Kitchen",
+    "productId": 87
+  },
+  {
+    "tagId": "Innovation",
+    "productId": 87
+  },
+  {
+    "tagId": "Home",
+    "productId": 87
+  },
+  {
+    "tagId": "Portable",
+    "productId": 87
+  },
+  {
+    "tagId": "Smart Solutionss",
+    "productId": 88
+  },
+  {
+    "tagId": "Kitchen",
+    "productId": 88
+  },
+  {
+    "tagId": "Innovation",
+    "productId": 88
+  },
+  {
+    "tagId": "Home",
+    "productId": 88
+  },
+  {
+    "tagId": "Industrial",
+    "productId": 88
+  },
+  {
+    "tagId": "Fashion",
+    "productId": 89
+  },
+  {
+    "tagId": "Kids",
+    "productId": 89
+  },
+  {
+    "tagId": "Clothes",
+    "productId": 89
+  },
+  {
+    "tagId": "Fun",
+    "productId": 90
+  },
+  {
+    "tagId": "Fashion",
+    "productId": 90
+  },
+  {
+    "tagId": "Kids",
+    "productId": 90
+  },
+  {
+    "tagId": "Clothes",
+    "productId": 90
+  },
+  {
+    "tagId": "Innovation",
+    "productId": 90
+  },
+  {
+    "tagId": "Health",
+    "productId": 91
+  },
+  {
+    "tagId": "Fashion",
+    "productId": 91
+  },
+  {
+    "tagId": "Kids",
+    "productId": 91
+  },
+  {
+    "tagId": "Clothes",
+    "productId": 91
+  },
+  {
+    "tagId": "Innovation",
+    "productId": 91
+  },
+  {
+    "tagId": "Fun ",
+    "productId": 92
+  },
+  {
+    "tagId": "Fashion",
+    "productId": 92
+  },
+  {
+    "tagId": "Kids",
+    "productId": 92
+  },
+  {
+    "tagId": "Clothes",
+    "productId": 92
+  },
+  {
+    "tagId": "Innovation",
+    "productId": 92
+  },
+  {
+    "tagId": "Toy",
+    "productId": 93
+  },
+  {
+    "tagId": "Entertainment",
+    "productId": 93
+  },
+  {
+    "tagId": "Industrial",
+    "productId": 93
+  },
+  {
+    "tagId": "Kids",
+    "productId": 93
+  },
+  {
+    "tagId": "Electronics",
+    "productId": 93
+  },
+  {
+    "tagId": "Appliances",
+    "productId": 94
+  },
+  {
+    "tagId": "Entertainment",
+    "productId": 94
+  },
+  {
+    "tagId": "Portable",
+    "productId": 94
+  },
+  {
+    "tagId": "Innovation",
+    "productId": 94
+  },
+  {
+    "tagId": "Electronics",
+    "productId": 94
+  },
+  {
+    "tagId": "Home",
+    "productId": 95
+  },
+  {
+    "tagId": "Relaxing",
+    "productId": 95
+  },
+  {
+    "tagId": "Fun ",
+    "productId": 95
+  },
+  {
+    "tagId": "Electronics",
+    "productId": 95
+  },
+  {
+    "tagId": "Portable",
+    "productId": 95
+  },
+  {
+    "tagId": "Entertainment",
+    "productId": 96
+  },
+  {
+    "tagId": "Innovation",
+    "productId": 96
+  },
+  {
+    "tagId": "Electronics",
+    "productId": 96
+  },
+  {
+    "tagId": "Relaxing",
+    "productId": 96
+  },
+  {
+    "tagId": "Toy",
+    "productId": 97
+  },
+  {
+    "tagId": "Entertainment",
+    "productId": 97
+  },
+  {
+    "tagId": "Relaxing",
+    "productId": 97
+  },
+  {
+    "tagId": "Kids",
+    "productId": 97
+  },
+  {
+    "tagId": "Industrial",
+    "productId": 97
+  },
+  {
+    "tagId": "Toy",
+    "productId": 98
+  },
+  {
+    "tagId": "Entertainment",
+    "productId": 98
+  },
+  {
+    "tagId": "Relaxing",
+    "productId": 98
+  },
+  {
+    "tagId": "Industrial",
+    "productId": 98
+  },
+  {
+    "tagId": "Kids",
+    "productId": 98
+  },
+  {
+    "tagId": "Toy",
+    "productId": 99
+  },
+  {
+    "tagId": "Entertainment",
+    "productId": 99
+  },
+  {
+    "tagId": "Innovation",
+    "productId": 99
+  },
+  {
+    "tagId": "Smart Solutionss",
+    "productId": 99
+  },
+  {
+    "tagId": "Kids",
+    "productId": 99
+  },
+  {
+    "tagId": "Toy",
+    "productId": 100
+  },
+  {
+    "tagId": "Entertainment",
+    "productId": 100
+  },
+  {
+    "tagId": "Industrial",
+    "productId": 100
+  },
+  {
+    "tagId": "Fun ",
+    "productId": 100
+  },
+  {
+    "tagId": "Kids",
+    "productId": 100
+  },
+  {
+    "tagId": "Lifestyle",
+    "productId": 1
+  },
+  {
+    "tagId": "Home",
+    "productId": 1
+  },
+  {
+    "tagId": "Smart Solutionss",
+    "productId": 1
+  },
+  {
+    "tagId": "Portable",
+    "productId": 1
+  },
+  {
+    "tagId": "Relaxing",
+    "productId": 1
+  },
+  {
+    "tagId": "Appliances",
+    "productId": 2
+  },
+  {
+    "tagId": "Home",
+    "productId": 2
+  },
+  {
+    "tagId": "Industrial",
+    "productId": 2
+  },
+  {
+    "tagId": "Health",
+    "productId": 2
+  },
+  {
+    "tagId": "Relaxing",
+    "productId": 2
+  },
+  {
+    "tagId": "Portable",
+    "productId": 3
+  },
+  {
+    "tagId": "Home",
+    "productId": 3
+  },
+  {
+    "tagId": "Smart Solutionss",
+    "productId": 3
+  },
+  {
+    "tagId": "Industrial",
+    "productId": 3
+  },
+  {
+    "tagId": "Innovation",
+    "productId": 3
+  },
+  {
+    "tagId": "Health",
+    "productId": 4
+  },
+  {
+    "tagId": "Lifestyle",
+    "productId": 4
+  },
+  {
+    "tagId": "Appliances",
+    "productId": 4
+  },
+  {
+    "tagId": "Portable",
+    "productId": 4
+  },
+  {
+    "tagId": "Smart Solutionss",
+    "productId": 4
+  },
+  {
+    "tagId": "Home",
+    "productId": 5
+  },
+  {
+    "tagId": "Industrial",
+    "productId": 5
+  },
+  {
+    "tagId": "Smart Solutionss",
+    "productId": 5
+  },
+  {
+    "tagId": "Office",
+    "productId": 5
+  },
+  {
+    "tagId": "Portable",
+    "productId": 5
+  },
+  {
+    "tagId": "Home",
+    "productId": 6
+  },
+  {
+    "tagId": "Innovation",
+    "productId": 6
+  },
+  {
+    "tagId": "Kitchen",
+    "productId": 6
+  },
+  {
+    "tagId": "Industrial",
+    "productId": 6
+  },
+  {
+    "tagId": "Portable",
+    "productId": 6
+  },
+  {
+    "tagId": "Home",
+    "productId": 7
+  },
+  {
+    "tagId": "Smart Solutions",
+    "productId": 7
+  },
+  {
+    "tagId": "Innovation",
+    "productId": 7
+  },
+  {
+    "tagId": "Technology",
+    "productId": 7
+  },
+  {
+    "tagId": "Clothes",
+    "productId": 7
+  },
+  {
+    "tagId": "Home",
+    "productId": 8
+  },
+  {
+    "tagId": "Innovation",
+    "productId": 8
+  },
+  {
+    "tagId": "Kitchen",
+    "productId": 8
+  },
+  {
+    "tagId": "Lifestyle",
+    "productId": 8
+  },
+  {
+    "tagId": "Smart Solutionss",
+    "productId": 8
+  },
+  {
+    "tagId": "Home",
+    "productId": 9
+  },
+  {
+    "tagId": "Kitchen",
+    "productId": 9
+  },
+  {
+    "tagId": "Smart Solutionss",
+    "productId": 9
+  },
+  {
+    "tagId": "Health",
+    "productId": 9
+  },
+  {
+    "tagId": "Industrial",
+    "productId": 9
+  },
+  {
+    "tagId": "Home",
+    "productId": 10
+  },
+  {
+    "tagId": "Kitchen",
+    "productId": 10
+  },
+  {
+    "tagId": "Portable",
+    "productId": 10
+  },
+  {
+    "tagId": "Smart Solutionss",
+    "productId": 10
+  },
+  {
+    "tagId": "Industrial",
+    "productId": 10
+  },
+  {
+    "tagId": "Kitchen",
+    "productId": 11
+  },
+  {
+    "tagId": "Home",
+    "productId": 11
+  },
+  {
+    "tagId": "Innovation",
+    "productId": 11
+  },
+  {
+    "tagId": "Portable",
+    "productId": 11
+  },
+  {
+    "tagId": "Industrial",
+    "productId": 11
+  },
+  {
+    "tagId": "Kitchen",
+    "productId": 12
+  },
+  {
+    "tagId": "Home",
+    "productId": 12
+  },
+  {
+    "tagId": "Smart Solutionss",
+    "productId": 12
+  },
+  {
+    "tagId": "Innovation",
+    "productId": 12
+  },
+  {
+    "tagId": "Industrial",
+    "productId": 12
+  },
+  {
+    "tagId": "Lifestyle",
+    "productId": 13
+  },
+  {
+    "tagId": "Automotive",
+    "productId": 13
+  },
+  {
+    "tagId": "Entertainment",
+    "productId": 13
+  },
+  {
+    "tagId": "Fun",
+    "productId": 13
+  },
+  {
+    "tagId": "Fashion",
+    "productId": 13
+  },
+  {
+    "tagId": "Automotive",
+    "productId": 14
+  },
+  {
+    "tagId": "Lifestyle",
+    "productId": 14
+  },
+  {
+    "tagId": "Innovation",
+    "productId": 14
+  },
+  {
+    "tagId": "Fun",
+    "productId": 14
+  },
+  {
+    "tagId": "Fashion",
+    "productId": 14
+  },
+  {
+    "tagId": "Kids",
+    "productId": 15
+  },
+  {
+    "tagId": "Automotive",
+    "productId": 15
+  },
+  {
+    "tagId": "Lifestyle",
+    "productId": 15
+  },
+  {
+    "tagId": "Innovation",
+    "productId": 15
+  },
+  {
+    "tagId": "Fashion",
+    "productId": 15
+  },
+  {
+    "tagId": "Kids",
+    "productId": 16
+  },
+  {
+    "tagId": "Automotive",
+    "productId": 16
+  },
+  {
+    "tagId": "Lifestyle",
+    "productId": 16
+  },
+  {
+    "tagId": "Smart Solutionss",
+    "productId": 16
+  },
+  {
+    "tagId": "Fashion",
+    "productId": 16
+  },
+  {
+    "tagId": "Automotive",
+    "productId": 17
+  },
+  {
+    "tagId": "Clothes",
+    "productId": 17
+  },
+  {
+    "tagId": "Lifestyle",
+    "productId": 17
+  },
+  {
+    "tagId": "Smart Solutionss",
+    "productId": 17
+  },
+  {
+    "tagId": "Innovation",
+    "productId": 17
+  },
+  {
+    "tagId": "Automotive",
+    "productId": 18
+  },
+  {
+    "tagId": "Clothes",
+    "productId": 18
+  },
+  {
+    "tagId": "Smart Solutionss",
+    "productId": 18
+  },
+  {
+    "tagId": "Innovation",
+    "productId": 18
+  },
+  {
+    "tagId": "Lifestyle",
+    "productId": 18
+  },
+  {
+    "tagId": "Automotive",
+    "productId": 19
+  },
+  {
+    "tagId": "Smart Solutions",
+    "productId": 19
+  },
+  {
+    "tagId": "Industrial",
+    "productId": 19
+  },
+  {
+    "tagId": "Lifestyle",
+    "productId": 19
+  },
+  {
+    "tagId": "Innovation",
+    "productId": 19
+  },
+  {
+    "tagId": "Automotive",
+    "productId": 20
+  },
+  {
+    "tagId": "Industrial",
+    "productId": 20
+  },
+  {
+    "tagId": "Smart Solutionss",
+    "productId": 20
+  },
+  {
+    "tagId": "Lifestyle",
+    "productId": 20
+  },
+  {
+    "tagId": "Portable",
+    "productId": 20
+  },
+  {
+    "tagId": "Clothes",
+    "productId": 21
+  },
+  {
+    "tagId": "Lifestyle",
+    "productId": 21
+  },
+  {
+    "tagId": "Smart Solutionss",
+    "productId": 21
+  },
+  {
+    "tagId": "Fashion",
+    "productId": 21
+  },
+  {
+    "tagId": "Industrial",
+    "productId": 21
+  },
+  {
+    "tagId": "Automotive",
+    "productId": 22
+  },
+  {
+    "tagId": "Smart Solutions",
+    "productId": 22
+  },
+  {
+    "tagId": "Lifestyle",
+    "productId": 22
+  },
+  {
+    "tagId": "Innovation",
+    "productId": 22
+  },
+  {
+    "tagId": "Industrial",
+    "productId": 22
+  },
+  {
+    "tagId": "Automotive",
+    "productId": 23
+  },
+  {
+    "tagId": "Clothes",
+    "productId": 23
+  },
+  {
+    "tagId": "Lifestyle",
+    "productId": 23
+  },
+  {
+    "tagId": "Fashion",
+    "productId": 23
+  },
+  {
+    "tagId": "Health",
+    "productId": 23
+  },
+  {
+    "tagId": "Home",
+    "productId": 24
+  },
+  {
+    "tagId": "Automotive",
+    "productId": 24
+  },
+  {
+    "tagId": "Innovation",
+    "productId": 24
+  },
+  {
+    "tagId": "Lifestyle",
+    "productId": 24
+  },
+  {
+    "tagId": "Fashion",
+    "productId": 24
+  },
+  {
+    "tagId": "Electronics",
+    "productId": 25
+  },
+  {
+    "tagId": "Technology",
+    "productId": 25
+  },
+  {
+    "tagId": "Lifestyle",
+    "productId": 25
+  },
+  {
+    "tagId": "Electronics",
+    "productId": 26
+  },
+  {
+    "tagId": "Toy",
+    "productId": 26
+  },
+  {
+    "tagId": "Lifestyle",
+    "productId": 26
+  },
+  {
+    "tagId": "Electronics",
+    "productId": 27
+  },
+  {
+    "tagId": "Technology",
+    "productId": 27
+  },
+  {
+    "tagId": "Toy",
+    "productId": 27
+  },
+  {
+    "tagId": "Toy",
+    "productId": 28
+  },
+  {
+    "tagId": "Technology",
+    "productId": 28
+  },
+  {
+    "tagId": "Lifestyle",
+    "productId": 28
+  },
+  {
+    "tagId": "Home",
+    "productId": 29
+  },
+  {
+    "tagId": "Industrial",
+    "productId": 29
+  },
+  {
+    "tagId": "Smart Solutionss",
+    "productId": 29
+  },
+  {
+    "tagId": "Home",
+    "productId": 30
+  },
+  {
+    "tagId": "Industrial",
+    "productId": 30
+  },
+  {
+    "tagId": "Toy",
+    "productId": 30
+  },
+  {
+    "tagId": "Kitchen",
+    "productId": 31
+  },
+  {
+    "tagId": "Home",
+    "productId": 31
+  },
+  {
+    "tagId": "Smart Solutionss",
+    "productId": 31
+  },
+  {
+    "tagId": "Smart Solutionss",
+    "productId": 32
+  },
+  {
+    "tagId": "Home",
+    "productId": 32
+  },
+  {
+    "tagId": "Innovation",
+    "productId": 32
+  },
+  {
+    "tagId": "Innovation",
+    "productId": 33
+  },
+  {
+    "tagId": "Home",
+    "productId": 33
+  },
+  {
+    "tagId": "Kitchen",
+    "productId": 33
+  },
+  {
+    "tagId": "Innovation",
+    "productId": 34
+  },
+  {
+    "tagId": "Home",
+    "productId": 34
+  },
+  {
+    "tagId": "Kitchen",
+    "productId": 34
+  },
+  {
+    "tagId": "Kitchen",
+    "productId": 35
+  },
+  {
+    "tagId": "Home",
+    "productId": 35
+  },
+  {
+    "tagId": "Home",
+    "productId": 36
+  },
+  {
+    "tagId": "Industrial",
+    "productId": 36
+  },
+  {
+    "tagId": "Technology",
+    "productId": 36
+  },
+  {
+    "tagId": "Industrial",
+    "productId": 37
+  },
+  {
+    "tagId": "Home",
+    "productId": 37
+  },
+  {
+    "tagId": "Portable",
+    "productId": 37
+  },
+  {
+    "tagId": "Electronics",
+    "productId": 38
+  },
+  {
+    "tagId": "Innovation",
+    "productId": 38
+  },
+  {
+    "tagId": "Home",
+    "productId": 38
+  },
+  {
+    "tagId": "Industrial",
+    "productId": 39
+  },
+  {
+    "tagId": "Electronics",
+    "productId": 39
+  },
+  {
+    "tagId": "Toy",
+    "productId": 39
+  },
+  {
+    "tagId": "Industrial",
+    "productId": 40
+  },
+  {
+    "tagId": "Toy",
+    "productId": 40
+  },
+  {
+    "tagId": "Portable",
+    "productId": 40
+  },
+  {
+    "tagId": "Electronics",
+    "productId": 41
+  },
+  {
+    "tagId": "Home",
+    "productId": 41
+  },
+  {
+    "tagId": "Technology",
+    "productId": 41
+  },
+  {
+    "tagId": "Home",
+    "productId": 42
+  },
+  {
+    "tagId": "Industrial",
+    "productId": 42
+  },
+  {
+    "tagId": "Portable",
+    "productId": 42
+  },
+  {
+    "tagId": "Electronics",
+    "productId": 43
+  },
+  {
+    "tagId": "Technology",
+    "productId": 43
+  },
+  {
+    "tagId": "Smart Solutionss",
+    "productId": 43
+  },
+  {
+    "tagId": "Electronics",
+    "productId": 44
+  },
+  {
+    "tagId": "Technology",
+    "productId": 44
+  },
+  {
+    "tagId": "Smart Solutionss",
+    "productId": 44
+  },
+  {
+    "tagId": "Home",
+    "productId": 45
+  },
+  {
+    "tagId": "Innovation",
+    "productId": 45
+  },
+  {
+    "tagId": "Lifestyle",
+    "productId": 45
+  },
+  {
+    "tagId": "Lifestyle",
+    "productId": 46
+  },
+  {
+    "tagId": "Home",
+    "productId": 46
+  },
+  {
+    "tagId": "Fashion",
+    "productId": 46
+  },
+  {
+    "tagId": "Lifestyle",
+    "productId": 47
+  },
+  {
+    "tagId": "Automotive",
+    "productId": 47
+  },
+  {
+    "tagId": "Smart Solutionss",
+    "productId": 47
+  },
+  {
+    "tagId": "Home",
+    "productId": 48
+  },
+  {
+    "tagId": "Innovation",
+    "productId": 48
+  },
+  {
+    "tagId": "Lifestyle",
+    "productId": 48
+  },
+  {
+    "tagId": "Technology",
+    "productId": 49
+  },
+  {
+    "tagId": "Home",
+    "productId": 49
+  },
+  {
+    "tagId": "Kitchen",
+    "productId": 49
+  },
+  {
+    "tagId": "Technology",
+    "productId": 50
+  },
+  {
+    "tagId": "Home",
+    "productId": 50
+  },
+  {
+    "tagId": "Industrial",
+    "productId": 50
+  },
+  {
+    "tagId": "Technology",
+    "productId": 51
+  },
+  {
+    "tagId": "Industrial",
+    "productId": 51
+  },
+  {
+    "tagId": "Lifestyle",
+    "productId": 51
+  }
+]

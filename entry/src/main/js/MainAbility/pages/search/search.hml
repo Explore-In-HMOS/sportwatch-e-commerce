@@ -1,0 +1,62 @@
+<div class="container">
+    <list class="content-list">
+        <list-item class="header-section">
+            <div class="header">
+                <text class="header-title">Search</text>
+            </div>
+        </list-item>
+
+        <list-item class="search-section">
+            <div class="search-box">
+                <input class="search-input" type="text" placeholder="Search products..." onchange="onSearch"></input>
+            </div>
+        </list-item>
+
+        <list-item class="product-card" onclick="goProduct1">
+            <div class="card-inner">
+                <div class="accent accent-blue"></div>
+                <image class="product-img" src="/data/images/products/1/1.png"></image>
+                <text class="product-name">Heated Socks Rechargeable</text>
+                <text class="product-price">$24.37</text>
+            </div>
+        </list-item>
+
+        <list-item class="product-card" onclick="goProduct2">
+            <div class="card-inner">
+                <div class="accent accent-orange"></div>
+                <image class="product-img" src="/data/images/products/2/1.png"></image>
+                <text class="product-name">USB Neck Heating Shawl</text>
+                <text class="product-price">$22.21</text>
+            </div>
+        </list-item>
+
+        <list-item class="product-card" onclick="goProduct3">
+            <div class="card-inner">
+                <div class="accent accent-green"></div>
+                <image class="product-img" src="/data/images/products/45/1.png"></image>
+                <text class="product-name">Smart Watch Band Silicone</text>
+                <text class="product-price">$15.99</text>
+            </div>
+        </list-item>
+
+        <list-item class="product-card" onclick="goProduct4">
+            <div class="card-inner">
+                <div class="accent accent-purple"></div>
+                <image class="product-img" src="/data/images/products/46/1.png"></image>
+                <text class="product-name">Wireless Earbuds Bluetooth</text>
+                <text class="product-price">$35.50</text>
+            </div>
+        </list-item>
+
+        <list-item class="back-section" onclick="goBack">
+            <div class="back-card">
+                <div class="back-icon"></div>
+                <text class="back-text">Back</text>
+            </div>
+        </list-item>
+
+        <list-item class="spacer-item">
+            <div class="spacer"></div>
+        </list-item>
+    </list>
+</div>

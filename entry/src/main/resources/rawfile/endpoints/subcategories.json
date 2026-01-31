@@ -1,0 +1,284 @@
+[
+  {
+    "name": "Heating Equipment",
+    "categoryId": "Appliances",
+    "filePath": "appliances/heatingequipment.jpg",
+    "isHot": 1
+  },
+  {
+    "name": "Home Appliances",
+    "categoryId": "Appliances",
+    "filePath": "appliances/homeappliances.jpg",
+    "isHot": 0
+  },
+  {
+    "name": "Juicers & Food Processors",
+    "categoryId": "Appliances",
+    "filePath": "appliances/juicersfoodprocessors.jpg",
+    "isHot": 0
+  },
+  {
+    "name": "Car Stickers",
+    "categoryId": "Automotive",
+    "filePath": "automotive/carstickers.png",
+    "isHot": 0
+  },
+  {
+    "name": "Car Storage & Organizers",
+    "categoryId": "Automotive",
+    "filePath": "automotive/carstorageorganizers.jpg",
+    "isHot": 1
+  },
+  {
+    "name": "Motorcycles",
+    "categoryId": "Automotive",
+    "filePath": "automotive/motorcycles.jpeg",
+    "isHot": 0
+  },
+  {
+    "name": "3D Printers & Accessories",
+    "categoryId": "Business, Industry & Science",
+    "filePath": "businessindustryscience/threedprintersaccessories.png",
+    "isHot": 0
+  },
+  {
+    "name": "Fasteners",
+    "categoryId": "Business, Industry & Science",
+    "filePath": "businessindustryscience/fasteners.png",
+    "isHot": 0
+  },
+  {
+    "name": "Food Service Equipment & Supplies",
+    "categoryId": "Business, Industry & Science",
+    "filePath": "businessindustryscience/foodserviceequipmentsupplies.jpg",
+    "isHot": 1
+  },
+  {
+    "name": "Hand Tools",
+    "categoryId": "Business, Industry & Science",
+    "filePath": "businessindustryscience/handtools.png",
+    "isHot": 0
+  },
+  {
+    "name": "Power Tools",
+    "categoryId": "Business, Industry & Science",
+    "filePath": "businessindustryscience/powertools.jpg",
+    "isHot": 0
+  },
+  {
+    "name": "Professional Medical Supplies",
+    "categoryId": "Business, Industry & Science",
+    "filePath": "businessindustryscience/professionalmedicalsupplies.jpg",
+    "isHot": 1
+  },
+  {
+    "name": "Science Education",
+    "categoryId": "Business, Industry & Science",
+    "filePath": "businessindustryscience/scienceeducation.png",
+    "isHot": 0
+  },
+  {
+    "name": "Compuiter Components",
+    "categoryId": "Electronics",
+    "filePath": "electronics/computercomponents.jpg",
+    "isHot": 0
+  },
+  {
+    "name": "Keyboards, Mice & Accessories",
+    "categoryId": "Electronics",
+    "filePath": "electronics/keyboardsmiceaccessories.jpg",
+    "isHot": 0
+  },
+  {
+    "name": "Video Games",
+    "categoryId": "Electronics",
+    "filePath": "electronics/videogames.jpg",
+    "isHot": 1
+  },
+  {
+    "name": "Computer Accessories",
+    "categoryId": "Electronics",
+    "filePath": "electronics/computeraccessories.jpg",
+    "isHot": 0
+  },
+  {
+    "name": "Bath",
+    "categoryId": "Home & Kitchen",
+    "filePath": "homekitchen/bath.jpg",
+    "isHot": 0
+  },
+  {
+    "name": "Bedding",
+    "categoryId": "Home & Kitchen",
+    "filePath": "homekitchen/bedding.jpg",
+    "isHot": 0
+  },
+  {
+    "name": "Coffee, Tea & Espresso",
+    "categoryId": "Home & Kitchen",
+    "filePath": "homekitchen/coffeeteaespresso.jpg",
+    "isHot": 1
+  },
+  {
+    "name": "Furniture",
+    "categoryId": "Home & Kitchen",
+    "filePath": "homekitchen/furniture.jpg",
+    "isHot": 0
+  },
+  {
+    "name": "Kitchen Storage & Organization",
+    "categoryId": "Home & Kitchen",
+    "filePath": "homekitchen/kitchenstorageorganization.jpg",
+    "isHot": 0
+  },
+  {
+    "name": "Baby Sets",
+    "categoryId": "Kids` Fashion",
+    "filePath": "kidsfashion/babysets.jpg",
+    "isHot": 0
+  },
+  {
+    "name": "Electronic Toys",
+    "categoryId": "Toys & Games",
+    "filePath": "toysgames/electronictoys.jpg",
+    "isHot": 0
+  },
+  {
+    "name": "Vehicles",
+    "categoryId": "Toys & Games",
+    "filePath": "toysgames/vehicles.jpeg",
+    "isHot": 0
+  },
+  {
+    "name": "Men`s Sandals",
+    "categoryId": "Men`s Shoes",
+    "filePath": "mensshoes/menssandals.png",
+    "isHot": 1
+  },
+  {
+    "name": "Men`s Slippers",
+    "categoryId": "Men`s Shoes",
+    "filePath": "mensshoes/mensslippers.png",
+    "isHot": 0
+  },
+  {
+    "name": "Men`s Snow Boots",
+    "categoryId": "Men`s Shoes",
+    "filePath": "mensshoes/menssnowboots.png",
+    "isHot": 1
+  },
+  {
+    "name": "Men`s Jackets & Coats",
+    "categoryId": "Men's Clothing",
+    "filePath": "mensclothing/mensjacketcoats.png",
+    "isHot": 0
+  },
+  {
+    "name": "Men`s Sweaters",
+    "categoryId": "Men's Clothing",
+    "filePath": "mensclothing/menssweaters.jpg",
+    "isHot": 0
+  },
+  {
+    "name": "Men`s T-Shirts",
+    "categoryId": "Men's Clothing",
+    "filePath": "mensclothing/menstshirts.png",
+    "isHot": 0
+  },
+  {
+    "name": "Chairs & Sofas",
+    "categoryId": "Office & School Supplies",
+    "filePath": "officeschoolsupplies/chairssofas.png",
+    "isHot": 0
+  },
+  {
+    "name": "Office Electronics",
+    "categoryId": "Office & School Supplies",
+    "filePath": "officeschoolsupplies/officeelectronics.png",
+    "isHot": 0
+  },
+  {
+    "name": "Office Lighting",
+    "categoryId": "Office & School Supplies",
+    "filePath": "officeschoolsupplies/officelighting.png",
+    "isHot": 0
+  },
+  {
+    "name": "Home Entertainment",
+    "categoryId": "Smart Home",
+    "filePath": "smarthome/homeentertainment.png",
+    "isHot": 0
+  },
+  {
+    "name": "Smart Devices",
+    "categoryId": "Smart Home",
+    "filePath": "smarthome/smartdevices.png",
+    "isHot": 1
+  },
+  {
+    "name": "Smartwatch & Accessories",
+    "categoryId": "Smart Home",
+    "filePath": "smarthome/smartwatchaccessories.png",
+    "isHot": 0
+  },
+  {
+    "name": "WIFI & Networking",
+    "categoryId": "Smart Home",
+    "filePath": "smarthome/wifinetworking.png",
+    "isHot": 0
+  },
+  {
+    "name": "Climbing & Survival Tools",
+    "categoryId": "Sport`s & Outdoors",
+    "filePath": "sportsoutdoors/climbingsurvivaltools.png",
+    "isHot": 0
+  },
+  {
+    "name": "Fishing",
+    "categoryId": "Sport`s & Outdoors",
+    "filePath": "sportsoutdoors/fishing.png",
+    "isHot": 0
+  },
+  {
+    "name": "Picnic & Camp Kitchen",
+    "categoryId": "Sport`s & Outdoors",
+    "filePath": "sportsoutdoors/picniccampkitchen.png",
+    "isHot": 0
+  },
+  {
+    "name": "Sports",
+    "categoryId": "Sport`s & Outdoors",
+    "filePath": "sportsoutdoors/sports.jpg",
+    "isHot": 1
+  },
+  {
+    "name": "Swimming, Diving & Water Sports",
+    "categoryId": "Sport`s & Outdoors",
+    "filePath": "sportsoutdoors/swimmingdivingwatersports.jpg",
+    "isHot": 0
+  },
+  {
+    "name": "Electrical",
+    "categoryId": "Tools & Home Improvement",
+    "filePath": "toolshomeimprovement/electrical.png",
+    "isHot": 0
+  },
+  {
+    "name": "Hand Tools",
+    "categoryId": "Tools & Home Improvement",
+    "filePath": "toolshomeimprovement/handtools.png",
+    "isHot": 0
+  },
+  {
+    "name": "Hardware",
+    "categoryId": "Tools & Home Improvement",
+    "filePath": "toolshomeimprovement/hardware.png",
+    "isHot": 1
+  },
+  {
+    "name": "Kitchen Fixtures",
+    "categoryId": "Tools & Home Improvement",
+    "filePath": "toolshomeimprovement/kitchenfixtures.png",
+    "isHot": 0
+  }
+]

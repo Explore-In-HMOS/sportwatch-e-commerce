@@ -1,0 +1,33 @@
+<div class="container">
+    <div class="success-section">
+        <text class="success-icon">OK</text>
+        <text class="success-title">Order Placed!</text>
+    </div>
+
+    <div class="details-section">
+        <div class="detail-row">
+            <text class="detail-label">Status:</text>
+            <text class="detail-value">{{order.status}}</text>
+        </div>
+        <div class="detail-row">
+            <text class="detail-label">Payment:</text>
+            <text class="detail-value">{{order.paymentMethod}}</text>
+        </div>
+        <div class="detail-row">
+            <text class="detail-label">Items:</text>
+            <text class="detail-value">{{order.itemCount}} items</text>
+        </div>
+        <div class="detail-row">
+            <text class="detail-label">Delivery:</text>
+            <text class="detail-value">{{order.estimatedDelivery}}</text>
+        </div>
+    </div>
+
+    <div class="total-section">
+        <text class="total-label">Total:</text>
+        <text class="total-value">{{order.totalText}}</text>
+    </div>
+
+    <text class="action-btn" onclick="goHome">Continue Shopping</text>
+    <text class="action-btn-secondary" onclick="goOrders">View Orders</text>
+</div>

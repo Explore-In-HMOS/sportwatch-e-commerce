@@ -1,0 +1,240 @@
+.container {
+    width: 100%;
+    height: 100%;
+    flex-direction: column;
+    align-items: center;
+    background-color: #000000;
+}
+
+.header {
+    width: 100%;
+    height: 60px;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.back-btn {
+    width: 50px;
+    height: 40px;
+    font-size: 26px;
+    color: #2196F3;
+}
+
+.title {
+    width: 180px;
+    height: 45px;
+    font-size: 32px;
+    color: #35d07f;
+    text-align: center;
+}
+
+.placeholder {
+    width: 50px;
+}
+
+.section {
+    width: 90%;
+    margin-top: 10px;
+}
+
+.section-title {
+    width: 100%;
+    height: 30px;
+    font-size: 20px;
+    color: #35d07f;
+    margin-bottom: 8px;
+}
+
+.items-list {
+    width: 100%;
+    height: 90px;
+    background-color: #1a1a1a;
+    border-radius: 12px;
+}
+
+.summary-item {
+    width: 100%;
+    height: 42px;
+    padding-left: 12px;
+    padding-right: 12px;
+}
+
+.item-row {
+    width: 100%;
+    height: 100%;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.item-name {
+    width: 110px;
+    height: 26px;
+    font-size: 18px;
+    color: #ffffff;
+}
+
+.item-qty {
+    width: 50px;
+    height: 24px;
+    font-size: 16px;
+    color: #888888;
+    text-align: center;
+}
+
+.item-total {
+    width: 70px;
+    height: 26px;
+    font-size: 18px;
+    color: #35d07f;
+    text-align: right;
+}
+
+.payment-options {
+    width: 100%;
+    height: 70px;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.payment-option {
+    width: 80px;
+    height: 60px;
+    background-color: #1a1a1a;
+    border-radius: 12px;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-left: 6px;
+    margin-right: 6px;
+}
+
+.payment-option-selected {
+    width: 80px;
+    height: 60px;
+    background-color: #1a1a1a;
+    border-radius: 12px;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-left: 6px;
+    margin-right: 6px;
+    border-width: 2px;
+    border-color: #35d07f;
+}
+
+.payment-icon {
+    width: 40px;
+    height: 28px;
+    font-size: 22px;
+    color: #ffffff;
+    text-align: center;
+}
+
+.payment-text {
+    width: 60px;
+    height: 22px;
+    font-size: 16px;
+    color: #888888;
+    text-align: center;
+    margin-top: 4px;
+}
+
+.totals-section {
+    width: 90%;
+    margin-top: 12px;
+    background-color: #1a1a1a;
+    border-radius: 12px;
+    padding-top: 12px;
+    padding-bottom: 12px;
+}
+
+.total-row {
+    width: 100%;
+    height: 32px;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding-left: 16px;
+    padding-right: 16px;
+}
+
+.total-label {
+    width: 90px;
+    height: 26px;
+    font-size: 18px;
+    color: #888888;
+}
+
+.total-value {
+    width: 80px;
+    height: 26px;
+    font-size: 18px;
+    color: #ffffff;
+    text-align: right;
+}
+
+.total-row-grand {
+    width: 100%;
+    height: 40px;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding-left: 16px;
+    padding-right: 16px;
+    margin-top: 8px;
+}
+
+.total-label-grand {
+    width: 90px;
+    height: 32px;
+    font-size: 22px;
+    color: #ffffff;
+}
+
+.total-value-grand {
+    width: 90px;
+    height: 34px;
+    font-size: 26px;
+    color: #35d07f;
+    text-align: right;
+}
+
+.action-section {
+    width: 90%;
+    height: 70px;
+    margin-top: 12px;
+    justify-content: center;
+    align-items: center;
+}
+
+.status-text {
+    width: 180px;
+    height: 24px;
+    font-size: 16px;
+    color: #888888;
+    text-align: center;
+    margin-bottom: 6px;
+}
+
+.place-order-btn {
+    width: 200px;
+    height: 50px;
+    font-size: 22px;
+    color: #000000;
+    background-color: #35d07f;
+    border-radius: 25px;
+    text-align: center;
+}
+
+.place-order-btn-processing {
+    width: 200px;
+    height: 50px;
+    font-size: 22px;
+    color: #ffffff;
+    background-color: #666666;
+    border-radius: 25px;
+    text-align: center;
+}

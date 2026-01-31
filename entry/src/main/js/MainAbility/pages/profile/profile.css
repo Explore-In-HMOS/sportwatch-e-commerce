@@ -1,0 +1,177 @@
+.container {
+    width: 100%;
+    height: 100%;
+    background-color: #000000;
+    flex-direction: column;
+    align-items: center;
+}
+
+.scroll-list {
+    width: 100%;
+    height: 100%;
+}
+
+.title-section {
+    width: 100%;
+    height: 55px;
+    justify-content: center;
+    align-items: center;
+}
+
+.title {
+    width: 100%;
+    height: 45px;
+    font-size: 32px;
+    color: #FF5722;
+    text-align: center;
+}
+
+.profile-section {
+    width: 100%;
+    height: 160px;
+    margin-bottom: 8px;
+}
+
+.profile-card {
+    width: 100%;
+    height: 155px;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: #1a1a1a;
+    border-radius: 10px;
+}
+
+.avatar {
+    width: 60px;
+    height: 60px;
+    border-radius: 30px;
+    background-color: #4f7cff;
+    justify-content: center;
+    align-items: center;
+}
+
+.avatar-text {
+    width: 60px;
+    height: 45px;
+    font-size: 30px;
+    color: #ffffff;
+    text-align: center;
+}
+
+.user-name {
+    width: 100%;
+    height: 35px;
+    font-size: 24px;
+    color: #ffffff;
+    text-align: center;
+    margin-top: 8px;
+}
+
+.user-email {
+    width: 100%;
+    height: 28px;
+    font-size: 16px;
+    color: #888888;
+    text-align: center;
+    margin-top: 2px;
+}
+
+.device-section {
+    width: 100%;
+    height: 110px;
+    margin-bottom: 8px;
+}
+
+.device-card {
+    width: 100%;
+    height: 105px;
+    background-color: #1a1a1a;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+}
+
+.device-label {
+    width: 100%;
+    height: 26px;
+    font-size: 16px;
+    color: #888888;
+    text-align: center;
+}
+
+.device-row {
+    width: 100%;
+    height: 32px;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    margin-top: 4px;
+}
+
+.status-dot {
+    width: 12px;
+    height: 12px;
+    border-radius: 6px;
+    background-color: #35d07f;
+    margin-right: 10px;
+}
+
+.device-name {
+    width: 120px;
+    height: 30px;
+    font-size: 22px;
+    color: #ffffff;
+}
+
+.battery-text {
+    width: 100%;
+    height: 26px;
+    font-size: 16px;
+    color: #35d07f;
+    text-align: center;
+    margin-top: 4px;
+}
+
+.menu-section {
+    width: 100%;
+    height: 58px;
+    margin-bottom: 6px;
+}
+
+.menu-item {
+    width: 100%;
+    height: 52px;
+    background-color: #1a1a1a;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+}
+
+.menu-text {
+    width: 100%;
+    height: 30px;
+    font-size: 22px;
+    color: #ffffff;
+    text-align: center;
+}
+
+.back-section {
+    width: 100%;
+    height: 60px;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10px;
+}
+
+.back-btn {
+    width: 140px;
+    height: 45px;
+    font-size: 22px;
+    color: #2196F3;
+    text-align: center;
+    background-color: #1a1a1a;
+    border-radius: 22px;
+}

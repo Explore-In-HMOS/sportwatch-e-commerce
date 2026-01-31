@@ -1,0 +1,35 @@
+<div class="container">
+    <list class="content-list">
+        <list-item class="header-section">
+            <div class="header">
+                <text class="header-title">{{subcategoryName}}</text>
+            </div>
+        </list-item>
+
+        <list-item class="product-card" for="{{products}}" onclick="goToProduct({{$item.id}})">
+            <div class="card-inner">
+                <div class="accent accent-green"></div>
+                <image class="product-img" src="{{$item.image}}"></image>
+                <text class="product-name">{{$item.title}}</text>
+                <text class="product-price">{{$item.price}}</text>
+            </div>
+        </list-item>
+
+        <list-item class="empty-section" if="{{products.length === 0}}">
+            <div class="empty-state">
+                <text class="empty-text">No products found</text>
+            </div>
+        </list-item>
+
+        <list-item class="back-section" onclick="goBack">
+            <div class="back-card">
+                <div class="back-icon"></div>
+                <text class="back-text">Back</text>
+            </div>
+        </list-item>
+
+        <list-item class="spacer-item">
+            <div class="spacer"></div>
+        </list-item>
+    </list>
+</div>

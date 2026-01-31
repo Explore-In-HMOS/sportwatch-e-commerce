@@ -1,0 +1,25 @@
+<div class="container">
+    <text class="title">Orders ({{orders.length}})</text>
+
+    <div class="order-list" if="{{hasOrders}}">
+        <div class="order-item" for="{{orders}}" onclick="openOrder({{$item.id}})">
+            <div class="order-card">
+                <div class="order-header">
+                    <text class="order-number">{{$item.orderNumber}}</text>
+                    <text class="order-status" style="background-color: {{$item.statusColor}};">{{$item.status}}</text>
+                </div>
+                <div class="order-info">
+                    <text class="order-total">${{$item.total}}</text>
+                    <text class="order-items">{{$item.itemCount}} items</text>
+                </div>
+                <text class="order-date">{{$item.orderDate}}</text>
+            </div>
+        </div>
+    </div>
+
+    <div class="empty-state" if="{{!hasOrders}}">
+        <text class="empty-text">No orders yet</text>
+    </div>
+
+    <text class="back-btn" onclick="goBack">Back</text>
+</div>

@@ -1,0 +1,52 @@
+<div class="container">
+    <list class="menu-list">
+        <list-item class="menu-section">
+            <div class="header">
+                <text class="title">E-Commerce</text>
+            </div>
+        </list-item>
+
+        <list-item class="menu-item" onclick="goHome">
+            <div class="menu-card">
+                <div class="icon-box icon-home"></div>
+                <text class="menu-item-label">Home</text>
+            </div>
+        </list-item>
+
+        <list-item class="menu-item" onclick="goSearch">
+            <div class="menu-card">
+                <div class="icon-box icon-search"></div>
+                <text class="menu-item-label">Search</text>
+                <text class="menu-sub">Find products</text>
+            </div>
+        </list-item>
+
+        <list-item class="menu-item" onclick="goCart">
+            <div class="menu-card">
+                <div class="icon-box icon-cart"></div>
+                <text class="menu-item-label">Cart</text>
+                <text class="menu-sub">Your cart</text>
+            </div>
+        </list-item>
+
+        <list-item class="menu-item" onclick="goOrders">
+            <div class="menu-card">
+                <div class="icon-box icon-orders"></div>
+                <text class="menu-item-label">Orders</text>
+                <text class="menu-sub">Track orders</text>
+            </div>
+        </list-item>
+
+        <list-item class="menu-item" onclick="goProfile">
+            <div class="menu-card">
+                <div class="icon-box icon-account"></div>
+                <text class="menu-item-label">Account</text>
+                <text class="menu-sub">Profile</text>
+            </div>
+        </list-item>
+
+        <list-item class="menu-spacer">
+            <div class="spacer"></div>
+        </list-item>
+    </list>
+</div>

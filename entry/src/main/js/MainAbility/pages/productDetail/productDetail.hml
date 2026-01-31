@@ -1,0 +1,30 @@
+<div class="container">
+    <swiper class="swiper" index="{{currentIndex}}" autoplay="false" indicator="true" onchange="swiperChange">
+        <div class="swiper-item" for="{{product.images}}">
+            <image class="swiper-image" src="{{$item}}"></image>
+        </div>
+    </swiper>
+
+    <text class="product-name">{{product.name}}</text>
+    <text class="product-price">{{product.price}}</text>
+
+    <text class="desc-text">{{product.description}}</text>
+
+    <div class="stock-row">
+        <div class="stock-dot"></div>
+        <text class="stock-text">In Stock</text>
+    </div>
+
+    <div class="toast" if="{{showToast}}">
+        <text class="toast-text">{{toastMsg}}</text>
+    </div>
+
+    <div class="actions">
+        <text class="action-btn cart-btn" onclick="addToCart">Add to Cart</text>
+        <text class="action-btn buy-btn" onclick="buyNow">Buy Now</text>
+    </div>
+
+    <text class="back-btn" onclick="goBack">Back</text>
+
+
+</div>

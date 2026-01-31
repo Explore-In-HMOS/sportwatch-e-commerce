@@ -1,0 +1,112 @@
+.container {
+    width: 100%;
+    height: 100%;
+    flex-direction: column;
+    align-items: center;
+    background-color: #000000;
+}
+
+.menu-list {
+    width: 100%;
+    height: 100%;
+    padding-top: 10px;
+}
+
+.menu-item {
+    width: 100%;
+    height: 112px;
+    margin-bottom: 6px;
+}
+
+.menu-card {
+    width: 100%;
+    height: 104px;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+    background-color: #1a1a1a;
+    padding-left: 50px;
+}
+
+.menu-section {
+    width: 100%;
+    height: 50px;
+    margin-bottom: 10px;
+}
+
+.header {
+    width: 100%;
+    height: 50px;
+    justify-content: center;
+    align-items: center;
+}
+
+.title {
+    width: 220px;
+    height: 45px;
+    font-size: 36px;
+    color: #35d07f;
+    text-align: center;
+}
+
+.menu-item-label {
+    width: 140px;
+    height: 40px;
+    font-size: 34px;
+    color: #ffffff;
+    text-align: left;
+    margin-left: 15px;
+}
+
+.icon-box {
+    width: 36px;
+    height: 36px;
+    border-radius: 18px;
+}
+
+.icon-home {
+    background-color: #4CAF50;
+}
+
+.icon-search {
+    background-color: #2196F3;
+}
+
+.icon-browse {
+    background-color: #FF9800;
+}
+
+.icon-favorites {
+    background-color: #E91E63;
+}
+
+.icon-cart {
+    background-color: #9C27B0;
+}
+
+.icon-orders {
+    background-color: #00BCD4;
+}
+
+.icon-account {
+    background-color: #FF5722;
+}
+
+.menu-spacer {
+    width: 100%;
+    height: 60px;
+}
+
+.spacer {
+    width: 100%;
+    height: 60px;
+}
+
+.menu-sub {
+    width: 100px;
+    height: 24px;
+    font-size: 16px;
+    color: #888888;
+    text-align: left;
+    margin-left: 10px;
+}
