@@ -1,8 +1,8 @@
 /**
  * data.js - Complete Product Catalog Module
- * HarmonyOS Lite Wearable E-Commerce Application
+ * HarmonyOS SportWatch E-Commerce Application
  * Contains all product data, categories, subcategories, comments, and promotions
- * No @ohos imports - pure JavaScript for Lite Wearable compatibility
+ * No @ohos imports - pure JavaScript for SportWatch compatibility
  */
 
 // ============================================================

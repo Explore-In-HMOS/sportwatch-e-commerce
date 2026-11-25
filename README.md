@@ -2,7 +2,7 @@
 
 # E-Commerce Sportwatch
 
-**E-Commerce Sportwatch** is a fully functional e-commerce shopping application designed for HarmonyOS Lite Wearable devices. It provides users with a complete shopping experience directly from their smartwatch, including product browsing, search, cart management, checkout, and order tracking.
+**E-Commerce Sportwatch** is a fully functional e-commerce shopping application designed for HarmonyOS SportWatch devices. It provides users with a complete shopping experience directly from their smartwatch, including product browsing, search, cart management, checkout, and order tracking.
 
 # Preview
 
@@ -28,7 +28,7 @@
 * **Languages:** JavaScript (ES6)
 * **Markup:** HML (HarmonyOS Markup Language)
 * **Styling:** CSS
-* **Frameworks:** HarmonyOS Lite Wearable SDK
+* **Frameworks:** HarmonyOS SportWatch SDK
 * **Tools:** DevEco Studio
 * **Router:** @ohos.router
 
